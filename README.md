@@ -3,6 +3,8 @@ Usage example inside config.lua
 
 Features:
 * New UI (better i hope)
+* Pre configured button types
+* Checks if menu instance already exists
 * Animations
 * Callbacks with any sort of data you wish to pass
 * Easily customizable
